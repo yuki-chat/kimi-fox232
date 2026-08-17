@@ -152,4 +152,9 @@ textarea {
   border-color: #238636;
 }
 
-.hidden { display: none !important; }
+.hidden { display: none !important; 
+        {
+  "title": "اسم الكود الجديد",
+  "lang": "javascript",
+  "code": "الكود هنا"
+}
